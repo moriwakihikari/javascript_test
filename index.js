@@ -1,3 +1,4 @@
+(() => {
 //変数
 let unko = 'Hello World!';
 
@@ -51,3 +52,5 @@ const unko2 = {
 document.getElementsByTagName('button')[0].addEventListener('click', ()=> {
   window.alert('Hello World!!');
 });
+
+})();

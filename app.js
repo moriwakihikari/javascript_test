@@ -1,3 +1,5 @@
+(() => {
+
 const quiz = [
   {
     question: 'ゲーム市場、最も売れたゲーム機は次の打ちどれ？',
@@ -76,3 +78,4 @@ while (handlerIndex < buttonLength) {
   handlerIndex++;
 }
 
+})();
