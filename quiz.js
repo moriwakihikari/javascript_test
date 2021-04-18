@@ -28,7 +28,17 @@ const quiz = [
       'セシル'
     ],
     correct: 'セシル'
+  }, {
+    question: 'ファイナルファンタジーVⅡの主人公の名前は？',
+    answers: [
+      'フリオニール',
+      'クラウド',
+      'ティーダ',
+      'セシル'
+    ],
+    correct: 'クラウド'
   }
+
 ];
 
 const quizLength = quiz.length;
